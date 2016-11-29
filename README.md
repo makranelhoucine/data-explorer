@@ -2,11 +2,11 @@
 
 ## Learning about Data Explorer
 
-To found out more check out the wiki - [https://github.com/jiscdev/data-explorer/wiki]
+To found out more check out the [wiki](https://github.com/jiscdev/data-explorer/wiki)
 
 ## Submit issues, bugs and feature requests
 
-Use the GitHubs issues feature to submit requests - [https://github.com/jiscdev/data-explorer/issues]
+Use the GitHubs [issues](https://github.com/jiscdev/data-explorer/issues) feature to submit requests.
 
 ## Contributing to Data Explorer
 
